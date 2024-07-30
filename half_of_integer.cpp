@@ -5,5 +5,5 @@ int main(){
   cout<<"enter a number: ";
   cin>>x;
   float y=(float)x; //typecasting
-  cout<<y/2;
+  cout<<x/2;
 }
