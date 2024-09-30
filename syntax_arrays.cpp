@@ -11,4 +11,5 @@ cout<<"enter the array elements:" ;
   for(int i=0; i<=4; i++){
     cout<<arr[i]*2<<" ";
   }
+
   }
